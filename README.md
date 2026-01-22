@@ -77,7 +77,9 @@ No additional installation is required
 ### How to Run
 
 - Clone the repository
-- Open notebook.ipynb using Jupyter Notebook or Jupyter Lab
+     ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+- Open ```lin_reg_price_pred.ipynb``` using Jupyter Notebook or Jupyter Lab
 - Run the cells sequentially
 
 ### Notes
